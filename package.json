@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js", 
+    "dev": "node server.js", 
     "db-server": "json-server --watch db.json --port=5000"
   },
   "author": "",
